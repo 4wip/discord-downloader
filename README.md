@@ -10,10 +10,6 @@ User Token
 ```
 pip install discord.py-self aiohttp
 ```
-2. Run
-```
-python main.py
-```
 
 Usage:
 ```
