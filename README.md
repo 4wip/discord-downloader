@@ -1,4 +1,4 @@
-A selfbot to download all media from a Discord server
+A Discord selfbot that allows you to download all media from a server.
 
 Requirements:
 ```
